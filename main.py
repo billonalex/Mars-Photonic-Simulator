@@ -1,4 +1,4 @@
-from .model import MarsModel
+from model import MarsModel
 
 if(__name__ == "__main__"):
 

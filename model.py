@@ -1,4 +1,4 @@
-from astropy import *
+#from astropy import *
 
 """
 This class will represent our model.
